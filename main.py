@@ -14,7 +14,7 @@ class ExampleApp(QtWidgets.QMainWindow, gui.Ui_Dialog):
         if self.textEdit.toPlainText() == self.Eng[f'{self.rand}']:
             self.close()
         else:
-            dialog = QtWidgets.QMessageBox.information(self, 'Delete?', 'Wrong word!', buttons = QtWidgets.QMessageBox.Ok)
+            dialog = QtWidgets.QMessageBox.information(self, 'Wrongword!', 'Wrong word!', buttons = QtWidgets.QMessageBox.Ok)
 def main():
     app = QtWidgets.QApplication(sys.argv)  
     window = ExampleApp() 
