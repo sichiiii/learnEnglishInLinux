@@ -5,3 +5,7 @@
 
 # run script after system (re)boot
 @reboot       myuser  python3 /path/to/main.py
+
+
+![alt text](https://github.com/sichiiii/learnEnglishInLinux/blob/main/screenshots/screen1.png?raw=true)
+![alt text](https://github.com/sichiiii/learnEnglishInLinux/blob/main/screenshots/screen2.png?raw=true)
