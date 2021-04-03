@@ -8,4 +8,11 @@
 
 
 ![alt text](https://github.com/sichiiii/learnEnglishInLinux/blob/main/screenshots/screen1.png?raw=true)
+
+
+
+
+
+
+
 ![alt text](https://github.com/sichiiii/learnEnglishInLinux/blob/main/screenshots/screen2.png?raw=true)
